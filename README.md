@@ -91,8 +91,5 @@ Disciplinas a cursar:
    
 ### Repositorios Principais
   
-  <div>
-https://github.com/projeto-devs-senai/MEU-PORTFOLIO    
-  </div>
 
 
